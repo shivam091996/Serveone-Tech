@@ -1,0 +1,13 @@
+.pricing-section{
+    padding: 100px 0;
+}
+.pricing-section .price{
+    margin: 10px;
+}
+.react-pricing-table {
+    display: flex;
+    flex: 0 0 100%;
+}
+.react-pricing-table .Grid{
+    flex: 1;
+}
